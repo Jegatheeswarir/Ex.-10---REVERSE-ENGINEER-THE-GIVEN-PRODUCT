@@ -31,8 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![EXX](https://github.com/Jegatheeswarir/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144871077/3c0bc84a-30d3-4c3b-b706-0cc71f51615c)
 
 ### Output:
+![EX](https://github.com/Jegatheeswarir/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144871077/185451f3-1e64-4aef-95d3-c1d78121fae1)
+
 
 
 ### Name: JEGATHEESWARI R
